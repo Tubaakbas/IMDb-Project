@@ -1,3 +1,6 @@
 .vscode
 .conda
+
 config
+__pycache__
+
