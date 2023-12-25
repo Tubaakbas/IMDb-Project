@@ -1,1 +1,1 @@
-IMDB_API_KEY="k_323zszkz"
+IMDB_API_KEY="54e8ef1656msh382db4d78e6b06ep11834djsn29f3de0d1a30"
